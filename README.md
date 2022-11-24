@@ -1,5 +1,4 @@
-# Cestaro
-## Hello, Devs!!
+### Hello, Devs!!
 
 ![Snake animation](https://github.com/Cestaro0/Cestaro0/blob/output/github-contribution-grid-snake.svg)
 
