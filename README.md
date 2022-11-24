@@ -1,6 +1,6 @@
 ### Hello, Devs!!
 
-<img src="(https://tenor.com/pt-BR/view/fma-fullmetal-alchemist-armstrong-bromance-viril-gif-16049606)">
+![fma-fullmetal-alchemist](https://user-images.githubusercontent.com/99103680/203817754-08ae5726-0498-412e-bae1-15c0b35551e8.gif)
 
 ![Snake animation](https://github.com/Cestaro0/Cestaro0/blob/output/github-contribution-grid-snake.svg)
 
