@@ -1,5 +1,6 @@
 ### Hello, Devs!!
-<div class="tenor-gif-embed" data-postid="16049606" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/fma-fullmetal-alchemist-armstrong-bromance-viril-gif-16049606">Fma Fullmetal Alchemist GIF</a>from <a href="https://tenor.com/search/fma-gifs">Fma GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<img src="https://tenor.com/pt-BR/view/fma-fullmetal-alchemist-armstrong-bromance-viril-gif-16049606"/>
 
 ![Snake animation](https://github.com/Cestaro0/Cestaro0/blob/output/github-contribution-grid-snake.svg)
 
