@@ -1,16 +1,23 @@
-### Hi there 👋
+# Cestaro
+## Hello, Devs!!
 
-<!--
-**Cestaro0/Cestaro0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm studying systems development
+- 👻 Looking to learn a little more about reverse engineering
+- 🌏 Brazil 
 
-Here are some ideas to get you started:
+## I am learning
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = "40" heigth = "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width = "40" heigth = "40"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width = "40" heigth = "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width = "40" heigth = "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width = "40" heigth = "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = "40" heigth = "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = "40" heigth = "40"/>
+          
+<div>
+<a href="https://github.com/Cestaro0">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cestaro0&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cestaro0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/Cestaro0/Cestaro0/blob/output/github-contribution-grid-snake.svg)
