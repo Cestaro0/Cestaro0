@@ -1,6 +1,6 @@
 ### Hello, Devs!!
 
-<p align="center">![gif](https://user-images.githubusercontent.com/99103680/204919020-d68d739d-dc64-4189-a0ee-b1b5c355a1a8.gif)</p>
+![gif](https://user-images.githubusercontent.com/99103680/204919020-d68d739d-dc64-4189-a0ee-b1b5c355a1a8.gif)
 
 ![Snake animation](https://github.com/Cestaro0/Cestaro0/blob/output/github-contribution-grid-snake.svg)
 
