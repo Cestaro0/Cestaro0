@@ -1,7 +1,5 @@
 ### Hello, Devs!!
 
-![gif](https://user-images.githubusercontent.com/99103680/204919020-d68d739d-dc64-4189-a0ee-b1b5c355a1a8.gif)
-
 <p align="center">
           <img src="https://user-images.githubusercontent.com/99103680/204919020-d68d739d-dc64-4189-a0ee-b1b5c355a1a8.gif">
 </p>
