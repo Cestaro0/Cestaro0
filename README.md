@@ -3,7 +3,7 @@ So, a little bit more me:
 
 - i've studying InfoSec (Information Secuirity) at <a href="https://www.fatecourinhos.edu.br/">FATEC Ourinhos<a/>
 - graduated in ADS (Systems Analysis and Development) at <a href="https://etecpiraju.cps.sp.gov.br/">ETEC Piraju<a/>
-- i've been work as P&D in <a href="https://github.com/ChiptronicCrypt">Chiptronic<a/>
+- i've work as P&D in <a href="https://github.com/ChiptronicCrypt">Chiptronic<a/>
 - Focused in Reverse Engineering
 
 ### Tools and Technologies
